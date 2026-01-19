@@ -1,3 +1,8 @@
+"""
+author: Jarmila Kroulová
+email: jarmilxxx@seznam.cz
+""" 
+
 from zakladni_data import MENU
 from zakladni_data import zasoby
 from zakladni_data import mince_hodnota
@@ -150,6 +155,7 @@ def hlavni_menu():
     
 if __name__ == "__main__":
     hlavni_menu()
+
 
 
     
